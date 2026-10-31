@@ -1,0 +1,4 @@
+# temporary files the script may create
+*_raw.mp4
+input_h264.mp4
+__pycache__/
